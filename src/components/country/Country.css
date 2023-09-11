@@ -1,0 +1,10 @@
+.country{
+    border: 2px solid mediumaquamarine;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.flag{
+    height: 100px;
+    width: 140px;
+}
